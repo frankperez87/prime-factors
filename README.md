@@ -2,7 +2,7 @@
 Allows you to easily generate an array of primes for a given number.
 
 ### Example Usage:
-```
+```php
 <?php
 
 require 'vendor/autoload.php';
@@ -19,7 +19,7 @@ print '</pre>';
 ```
 
 ### Example Output:
-```
+```php
 Array
 (
     [0] => 2
